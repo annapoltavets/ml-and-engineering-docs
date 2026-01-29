@@ -1,0 +1,5 @@
+name: ml-env
+channels:
+  - conda-forge
+  - defaults
+prefix: /usr/local/Caskroom/miniconda/base/envs/ml-env
